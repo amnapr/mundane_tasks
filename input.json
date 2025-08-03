@@ -1,0 +1,11 @@
+{
+    "no_bottles": 2,
+    "rate": 79.0,
+    "mon": true,
+    "tue": true,
+    "wed": true,
+    "thu": true,
+    "fri": false,
+    "sat": false,
+    "sun": true
+}
